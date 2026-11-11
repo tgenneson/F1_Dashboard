@@ -19,9 +19,9 @@ Two interactive web apps built with Python, [FastF1](https://docs.fastf1.dev) an
 - Race metrics: laps covered, median and fastest lap time, number of pit stops
 - Pace evolution chart with pit stops marked, to read tyre degradation across stints
 
-![Stint management and race metrics](Screenshot/strategy_stints.png)
+![Stint management and race metrics](Screenshot/Strategy_stints.png)
 
-![Race pace evolution and degradation profiles](Screenshot/strategy_pace.png)
+![Race pace evolution and degradation profiles](Screenshot/Strategy_pace.png)
 
 ## Tech stack
 
